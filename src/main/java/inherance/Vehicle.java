@@ -1,3 +1,5 @@
+package inherance;
+
 public class Vehicle {
 
     private String color;

@@ -1,2 +1,4 @@
-public class Car extends Vehicle{
+package inherance;
+
+public class Car extends Vehicle {
 }
